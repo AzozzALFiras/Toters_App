@@ -1,16 +1,48 @@
-# Toters
+# Toters_App
+Design Toters App By Flutter with Api & Sql
 
-Toters Flutter.
+# By Azozz ALFiras
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/AzozzALFiras/Toters_App/blob/main/ScreenShot/Screen%20Shot%202022-09-21%20at%204.25.27%20PM.png?raw=true" alt="p1.png">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/AzozzALFiras/Toters_App/blob/main/ScreenShot/Screen%20Shot%202022-09-21%20at%204.25.36%20PM.png?raw=true">
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/AzozzALFiras/Toters_App/blob/main/ScreenShot/Screen%20Shot%202022-09-21%20at%204.25.47%20PM.png?raw=true">
+</p>
+
+
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/AzozzALFiras/Toters_App/blob/main/ScreenShot/Screen%20Shot%202022-09-21%20at%204.26.09%20PM.png?raw=true">
+</p>
+
+
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/AzozzALFiras/Toters_App/blob/main/ScreenShot/Screen%20Shot%202022-09-21%20at%204.26.35%20PM.png?raw=true">
+</p>
+
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/AzozzALFiras/Toters_App/blob/main/ScreenShot/Screen%20Shot%202022-09-21%20at%204.26.42%20PM.png?raw=true">
+</p>
+
+
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/AzozzALFiras/Toters_App/blob/main/ScreenShot/Screen%20Shot%202022-09-21%20at%204.26.56%20PM.png?raw=true">
+</p>
+
+
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/AzozzALFiras/Toters_App/blob/main/ScreenShot/Screen%20Shot%202022-09-21%20at%204.27.08%20PM.png?raw=true">
+</p>
+
+
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/AzozzALFiras/Toters_App/blob/main/ScreenShot/Screen%20Shot%202022-09-21%20at%204.27.11%20PM.png?raw=true">
+</p>
+
